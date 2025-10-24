@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm cobraa699!
 
-<!--
-**cobraa699/cobraa699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm not a professional (yet!), but coding is my passion and my favorite addiction. Right now, I’m focused on mastering C++ and building up my backend development skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🖥️ I code for fun and for the thrill of solving problems.
+- 🐍 Skilled in Python – I love making Discord bots!
+- 🛠️ Exploring backend development and aiming to become a professional developer.
+- 💡 Always learning, always curious.
+
+---
+
+## 🧑‍💻 What I’m Up To
+
+- Currently studying C++.
+- Building bots and backend projects to sharpen my skills.
+- Experimenting, failing, and growing every day.
+
+---
+
+## 🌱 My Goals
+
+- Become a professional developer.
+- Dive deeper into backend technologies.
+- Keep sharing and learning with the open-source community.
+
+---
+
+Thanks for visiting my profile!  
+If you share my interests or want to chat about code, feel free to connect or drop a message on GitHub.
