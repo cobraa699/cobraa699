@@ -1,3 +1,9 @@
+<p align="center">
+   <a href="https://discord.com/users/958793099541352580">
+      <img src="https://lanyard.cnrad.dev/api/958793099541352580?theme=dark&animated=true" />
+   </a>
+</p>
+
 # 👋 Hi, I'm cobraa699!
 
 Welcome to my GitHub!  
