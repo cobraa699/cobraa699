@@ -36,5 +36,4 @@ I'm not a professional (yet!), but coding is my passion and my favorite addictio
 
 ---
 
-Thanks for visiting my profile!  
-If you share my interests or want to chat about code, feel free to connect or drop a message on GitHub.
+If you share my interests or want to chat about code, feel free to connect or shoot me a DM on Discord.
