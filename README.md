@@ -7,7 +7,7 @@
 # 👋 Hi, I'm cobraa699!
 
 Welcome to my GitHub!  
-I'm not a professional (yet!), but coding is my passion and my favorite addiction. Right now, I’m focused on mastering C++ and building up my backend development skills.
+I'm not a professional (yet!), but coding is my favorite addiction. Learning everyday!
 
 ---
 
@@ -25,14 +25,6 @@ I'm not a professional (yet!), but coding is my passion and my favorite addictio
 - Currently studying C++.
 - Building bots and backend projects to sharpen my skills.
 - Experimenting, failing, and growing every day.
-
----
-
-## 🌱 My Goals
-
-- Become a professional developer.
-- Dive deeper into backend technologies.
-- Keep sharing and learning with the open-source community.
 
 ---
 
