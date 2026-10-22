@@ -153,13 +153,13 @@ class Cobra:
 
 <div align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/cobraa699">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
     <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" height="180" />
   </picture>
 </a>
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/cobraa699">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top languages" height="180" />
@@ -168,7 +168,7 @@ class Cobra:
 
 <br/>
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/cobraa699">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
     <img src="https://streak-stats.demolab.com?user=USERNAME&theme=default&hide_border=true" alt="GitHub streak" />
