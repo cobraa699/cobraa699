@@ -18,14 +18,14 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=00a86b&style=flat-square" alt="Profile views" />
-<a href="https://github.com/USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&logo=github&color=00a86b" alt="Followers" /></a>
-<a href="https://github.com/USERNAME?tab=stars"><img src="https://img.shields.io/github/stars/USERNAME?label=Stars%20earned&style=flat-square&logo=github&color=00d9ff" alt="Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=cobraa699&label=Profile%20views&color=00a86b&style=flat-square" alt="Profile views" />
+<a href="https://github.com/cobraa699?tab=followers"><img src="https://img.shields.io/github/followers/cobraa699?label=Followers&style=flat-square&logo=github&color=00a86b" alt="Followers" /></a>
+<a href="https://github.com/cobraa699?tab=stars"><img src="https://img.shields.io/github/stars/cobraa699?label=Stars%20earned&style=flat-square&logo=github&color=00d9ff" alt="Stars" /></a>
 
 <br/><br/>
 
 <a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/cobraa699"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -106,41 +106,41 @@ class Cobra:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/USERNAME/bot-one">🎵 bot-one</a></h3>
+      <h3><a href="https://github.com/cobraa699/bot-one">🎵 bot-one</a></h3>
       <p>One-line description, e.g. a music bot with queue, loop and slash commands.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/USERNAME/bot-one?style=social" />
-      <img src="https://img.shields.io/github/forks/USERNAME/bot-one?style=social" />
+      <img src="https://img.shields.io/github/stars/cobraa699/bot-one?style=social" />
+      <img src="https://img.shields.io/github/forks/cobraa699/bot-one?style=social" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/USERNAME/bot-two">🛡️ bot-two</a></h3>
+      <h3><a href="https://github.com/cobraa699/bot-two">🛡️ bot-two</a></h3>
       <p>One-line description, e.g. a moderation bot with logging and auto-mod.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/USERNAME/bot-two?style=social" />
-      <img src="https://img.shields.io/github/forks/USERNAME/bot-two?style=social" />
+      <img src="https://img.shields.io/github/stars/cobraa699/bot-two?style=social" />
+      <img src="https://img.shields.io/github/forks/cobraa699/bot-two?style=social" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/USERNAME/bot-three">🎮 bot-three</a></h3>
+      <h3><a href="https://github.com/cobraa699/bot-three">🎮 bot-three</a></h3>
       <p>One-line description, e.g. a mini-games and economy bot.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/USERNAME/bot-three?style=social" />
-      <img src="https://img.shields.io/github/forks/USERNAME/bot-three?style=social" />
+      <img src="https://img.shields.io/github/stars/cobraa699/bot-three?style=social" />
+      <img src="https://img.shields.io/github/forks/cobraa699/bot-three?style=social" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/USERNAME/cpp-practice">⚙️ cpp-practice</a></h3>
+      <h3><a href="https://github.com/cobraa699/cpp-practice">⚙️ cpp-practice</a></h3>
       <p>My C++ learning playground: small programs, exercises and experiments.</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/USERNAME/cpp-practice?style=social" />
-      <img src="https://img.shields.io/github/forks/USERNAME/cpp-practice?style=social" />
+      <img src="https://img.shields.io/github/stars/cobraa699/cpp-practice?style=social" />
+      <img src="https://img.shields.io/github/forks/cobraa699/cpp-practice?style=social" />
     </td>
   </tr>
 </table>
@@ -155,14 +155,14 @@ class Cobra:
 
 <a href="https://github.com/cobraa699">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cobraa699&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cobraa699&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" height="180" />
   </picture>
 </a>
 <a href="https://github.com/cobraa699">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top languages" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraa699&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraa699&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top languages" height="180" />
   </picture>
 </a>
 
@@ -170,8 +170,8 @@ class Cobra:
 
 <a href="https://github.com/cobraa699">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
-    <img src="https://streak-stats.demolab.com?user=USERNAME&theme=default&hide_border=true" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cobraa699&theme=tokyonight&hide_border=true&background=0d1117" />
+    <img src="https://streak-stats.demolab.com?user=cobraa699&theme=default&hide_border=true" alt="GitHub streak" />
   </picture>
 </a>
 
@@ -183,8 +183,8 @@ class Cobra:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cobraa699/cobraa699/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/cobraa699/cobraa699/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
   </picture>
 </div>
 
