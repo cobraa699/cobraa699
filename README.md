@@ -34,6 +34,7 @@ class Cobra:
         return "Always up for collaborating on bot ideas!"
 ```
 
+
 | 🔭 Working on | 🌱 Learning | 💬 Ask me about | ⚡ Fun fact |
 | :-- | :-- | :-- | :-- |
 | My Discord bots | C++ | Discord bots, Python, JS/TS | A single average-sized cloud weighs around a million tonnes |
@@ -84,48 +85,21 @@ class Cobra:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/cobraa699/pixel">🎵 Pixel</a></h3>
+      <h3><a href="https://github.com/cobraa699/Pixel">Pixel</a></h3>
       <p>My servers official bot. I use it for fun and mess around with new features.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/cobraa699/bot-one?style=social" />
-      <img src="https://img.shields.io/github/forks/cobraa699/bot-one?style=social" />
+      <br/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/cobraa699/bot-two">🛡️ bot-two</a></h3>
-      <p>One-line description, e.g. a moderation bot with logging and auto-mod.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/cobraa699/bot-two?style=social" />
-      <img src="https://img.shields.io/github/forks/cobraa699/bot-two?style=social" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cobraa699/bot-three">🎮 bot-three</a></h3>
-      <p>One-line description, e.g. a mini-games and economy bot.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/cobraa699/bot-three?style=social" />
-      <img src="https://img.shields.io/github/forks/cobraa699/bot-three?style=social" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cobraa699/cpp-practice">⚙️ cpp-practice</a></h3>
-      <p>My C++ learning playground: small programs, exercises and experiments.</p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/cobraa699/cpp-practice?style=social" />
-      <img src="https://img.shields.io/github/forks/cobraa699/cpp-practice?style=social" />
+      <h3><a href="https://github.com/cobraa699/8-bit">8-Bit</a></h3>
+      <p>Beta instance of my bots. Any new feature come here first for testing. You dont wanna look at the code its a total mess 💀</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      <br/>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 ## 📊 GitHub Stats
 
@@ -155,10 +129,6 @@ class Cobra:
 
 </div>
 
-### 🐍 Contribution Snake
-
-> Needs the `snake.yml` workflow (included separately) to generate the `output` branch.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cobraa699/cobraa699/output/github-snake-dark.svg" />
@@ -166,27 +136,11 @@ class Cobra:
   </picture>
 </div>
 
-<br/>
-
-<!-- ═══════════════════════ ROADMAP ═══════════════════════ -->
-
-## 🗺️ Roadmap & Goals
-
-- [x] Build my first Discord bot
-- [x] Learn slash commands and interactions
-- [x] Get comfortable with TypeScript
-- [ ] Finish a bot with a database and a web dashboard
-- [ ] Write a small C++ project (CLI tool or a game)
-- [ ] Contribute to an open-source Discord library
-- [ ] Publish a bot to a public bot list
-
-<br/>
-
-<!-- ═══════════════════════ COLLABORATE ═══════════════════════ -->
+<br/> 
 
 ## 🤝 Let's Connect
 
-Got a bot idea, want to team up, or just want to chat about code? Come hang out in my Discord server or open an issue on any of my repos. I'm always happy to help beginners too!
+Got a bot idea, want to team up, or just want to chat about code? Come hang out in my Discord server. I'm always happy to help beginners too!
 
 <div align="center">
 
@@ -195,8 +149,6 @@ Got a bot idea, want to team up, or just want to chat about code? Come hang out 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
 
