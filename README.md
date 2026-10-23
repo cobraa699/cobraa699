@@ -1,12 +1,3 @@
-<!--
-  SETUP: This file goes at the root of your profile repo: cobraa699/cobraa699 (public).
-  Still to fill in:
-    YOUR_INVITE   -> your Discord server invite code (the part after discord.gg/)
-  Also swap the placeholder bot names/links in the "Bots" section for your real ones.
--->
-
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:00a86b,100:00d9ff&text=Hi%2C%20I'm%20Cobra%20%F0%9F%90%8D&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20JavaScript%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18&animation=fadeIn" alt="Header banner" />
@@ -28,17 +19,11 @@
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-
-## 🐍 About Me
-
-I'm **Cobra**, a hobby developer who loves building **Discord bots**. I got into coding by wanting to make my own server do cool things, and I haven't stopped since. I like clean commands, fun features, and bots that people actually enjoy using.
+<br>
 
 ```python
 class Cobra:
-    role = "Hobby Discord bot developer 🤖"
+    about = "Hobby Discord bot developer 🤖"
     languages = ["Python", "JavaScript", "TypeScript"]
     learning = ["C++"]
     frameworks = ["discord.py", "discord.js"]
@@ -51,11 +36,9 @@ class Cobra:
 
 | 🔭 Working on | 🌱 Learning | 💬 Ask me about | ⚡ Fun fact |
 | :-- | :-- | :-- | :-- |
-| My Discord bots | C++ | Discord bots, Python, JS/TS | Replace with yours |
+| My Discord bots | C++ | Discord bots, Python, JS/TS | A single average-sized cloud weighs around a million tonnes |
 
 <br/>
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -92,21 +75,17 @@ class Cobra:
 | TypeScript | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |
 | C++ | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ |
 
-*Adjust these to be honest with yourself. It's more fun to watch them grow.*
-
 </details>
 
 <br/>
-
-<!-- ═══════════════════════ BOTS ═══════════════════════ -->
 
 ## 🤖 My Bots & Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/cobraa699/bot-one">🎵 bot-one</a></h3>
-      <p>One-line description, e.g. a music bot with queue, loop and slash commands.</p>
+      <h3><a href="https://github.com/cobraa699/pixel">🎵 Pixel</a></h3>
+      <p>My servers official bot. I use it for fun and mess around with new features.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
       <br/><br/>
