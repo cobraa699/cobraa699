@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
+<a href="https://discord.gg/fzCErCzvyp"><img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
 <a href="https://github.com/cobraa699"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
@@ -144,7 +144,7 @@ Got a bot idea, want to team up, or just want to chat about code? Come hang out 
 
 <div align="center">
 
-<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Chat%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.gg/fzCErCzvyp"><img src="https://img.shields.io/badge/Chat%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
