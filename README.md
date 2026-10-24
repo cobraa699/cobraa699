@@ -14,6 +14,12 @@
 
 <br/><br/>
 
+<p align="center">
+   <a href="https://discord.com/users/958793099541352580">
+      <img src="https://lanyard.cnrad.dev/api/958793099541352580?theme=dark&animated=true&hideTimestamp=true" />
+   </a>
+</p>
+
 <a href="https://discord.gg/fzCErCzvyp"><img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
 <a href="https://github.com/cobraa699"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
